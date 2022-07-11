@@ -4,4 +4,6 @@ let yourArray;
 // your code here!
 // code end
 
+yourArray = ['one', 2, 'three', true, 5, false];
+
 module.exports = yourArray
